@@ -1,6 +1,6 @@
 import org.apache.commons.lang3.RandomStringUtils;
 
-public class WrodGerenrator {
+public class WordGenerator {
     public static void main (String[] argas){
 
         final int quantity = 100;
